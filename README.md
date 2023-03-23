@@ -14,6 +14,8 @@ cp .env.example to .env
 
 DATABASE_URL=mysql://root@localhost:3306/test
 OPENAI_API_KEY=<your-own-openai-api-key>
+  
+  for upshash congig see  https://console.upstash.com/
 
 4. migrate DB
 
